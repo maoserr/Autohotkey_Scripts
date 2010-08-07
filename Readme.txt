@@ -1,3 +1,14 @@
+How to use Differ
+=================
+Differ script allows you to diff files in differently directories by right
+clicking and selecting "Differ" for two files
+
+1) Extract contents of Differ.zip to a new folder named Differ
+2) Double click Differ.exe to install context menu entry (must be able to write
+   to HKEY_ROOT)
+3) Right click on first file and select "Differ"
+4) Right click on second file and select "Differ"
+
 How to use Watermark Script
 ===========================
 Watermark script can add watermark image to a video using Avisynth and
